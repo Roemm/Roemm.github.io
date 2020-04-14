@@ -23,8 +23,10 @@
 a{
 	text-decoration: none;
 }
-
-p{
+b{
+	font-size: 18px;
+}
+p, b, ul{
 	color:white;
 }
 img {
@@ -94,17 +96,3 @@ h4, p {
 .motionTitle{
 	color:#ffd963;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
